@@ -1,0 +1,5 @@
+{
+  "name": "Snake 3D game",
+  "description": "A classic Snake game reimagined with generative AI. Use Gemini to dynamically generate custom game themes, visual styles, and difficulty modifiers on the fly.",
+  "requestFramePermissions": []
+}
