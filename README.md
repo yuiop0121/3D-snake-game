@@ -1,2 +1,1 @@
-A 3D snake game small project
-Have fun :)))))))))
+A 3D snake game small project. Have fun :)))))))))
